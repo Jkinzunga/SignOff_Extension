@@ -5,7 +5,11 @@
     "version": "1.0",
     "action": {
       "default_popup": "hello.html",
-      "default_icon": "default_icon.png"
+      "default_icon": {
+      "48":   "default_icon.png",
+      "128":   "default_icon.png"
+      }
+    
         
       
     }
