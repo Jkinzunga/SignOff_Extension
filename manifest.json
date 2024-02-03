@@ -5,9 +5,8 @@
     "version": "1.0",
     "action": {
       "default_popup": "hello.html",
-      "default_icon": {
-        "48": "mind-casacde-logo.png",
-        "128": "mind-cascade-logo.png"
-      }
+      "default_icon": "default_icon.png"
+        
+      
     }
   }
