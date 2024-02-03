@@ -3,11 +3,20 @@
     "name": "Mind Cascade",
     "description": "Base Level Extension",
     "version": "1.0",
+    "permissions": [
+      "tabs"
+    ],
+
     "action": {
       "default_popup": "hello.html",
       "default_icon": {
       "48":   "default_icon.png",
       "128":   "default_icon.png"
+      },
+
+      "background": {
+        "scripts": ["background.js"],
+        "persistent": false
       }
     
         
