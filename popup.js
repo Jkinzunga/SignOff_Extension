@@ -1,1 +1,1 @@
-console.log("Speak Your Truth!")
+console.log("Hand it Out!")
